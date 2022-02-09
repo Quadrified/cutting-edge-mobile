@@ -9,7 +9,7 @@ const App = props => {
         backgroundColor={styles.container?.backgroundColor}
       />
       <View style={styles.container}>
-        <Text>Cutting Edge</Text>
+        <Text>Cutting Edge Mobile App</Text>
       </View>
     </>
   );
